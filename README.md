@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md Isahak Ali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Web+Developer;UI%2FUX+Enthusiast+%26+Designer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Web+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<p align="Left">
   <a href="https://github.com/isahakdev">
     <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
   </a>
