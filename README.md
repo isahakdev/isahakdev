@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/tandpfun/main/banner.png" width="100%" alt="Cover Image" />
+ <img width="897" height="337" alt="example-dark" src="https://github.com/user-attachments/assets/3e142416-a369-4811-9d46-8fcb462719ae" />
+ building. Keep improving."</h3>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Isahak Ali</h1>
@@ -66,4 +68,6 @@
 
 ---
 
-<h3 align="center">💡 "Keep learning. Keep building. Keep improving."</h3>
+<h3 align="center">💡 "Keep learning. Keep<img width="897" height="337" alt="example-dark" src="https://github.com/user-attachments/assets/7724e38f-ece1-405d-b5e3-fbd33d0dccc8" />
+<img width="897" height="337" alt="example-dark" src="https://github.com/user-attachments/assets/3e142416-a369-4811-9d46-8fcb462719ae" />
+ building. Keep improving."</h3>
