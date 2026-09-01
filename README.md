@@ -49,20 +49,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isahakdev&show_icons=true&hide_border=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahakdev&layout=compact&hide_border=true&theme=radical" width="49%" />
-</p>
-
----
-
-
----
-
 ## 🚀 Featured Projects
 
 <p align="center">
