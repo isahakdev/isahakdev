@@ -1,144 +1,81 @@
-# Hi 👋, I'm Isahak Ali
+<h1 align="center">Hi 👋, I'm Md Isahak Ali</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Web+Developer;UI%2FUX+Enthusiast+%26+Designer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-### 💻 Aspiring Web Developer | Frontend Enthusiast | Lifelong Learner
-
-I'm a passionate developer who enjoys building clean, responsive, and user-friendly websites.
-
-Currently, I'm focused on strengthening my **Frontend Development** skills while exploring modern technologies, UI/UX design, and AI-powered development tools.
+<p align="center">
+  <a href="https://github.com/isahakdev"><img src="https://komarev.com/ghpvc/?username=isahakdev&style=flat-square&color=blue" alt="Visitor Count"/></a>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat-square" alt="Status">
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 💻 Currently learning **Web Development**
-* 🌱 Learning **HTML, CSS, JavaScript & TypeScript**
-* ⚛️ Exploring **React & Node.js**
-* 🎨 Interested in **UI/UX Design & Figma**
-* 🤖 Exploring **AI and modern developer tools**
-* 🛠️ Building projects to improve my practical skills
-* 📚 Continuously learning and experimenting
-* 🎯 Goal: Become a **Professional Full-Stack Web Developer**
+- 💻 I'm currently expanding my skills in **Web Development**.
+- 🌱 Deepening my knowledge in **JavaScript, TypeScript, React, and Node.js**.
+- 🚀 Building scalable, real-world web applications to sharpen my problem-solving skills.
+- 🎨 Passionate about **UI/UX Design, Figma, and clean user interfaces**.
+- 🤖 Exploring modern development workflows and AI-assisted tools.
+- 🎯 My goal is to become an impactful, professional software developer.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technology Stack
 
-### 🌐 Frontend
-
+### Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### ⚙️ Backend & Database
-
+### Frameworks & Libraries (Learning & Using)
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
-### 🛠️ Tools & Design
-
+### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-I'm currently focusing on:
-
-* React & Component-Based Development
-* JavaScript & TypeScript
-* REST APIs
-* Backend Fundamentals
-* Responsive Web Design
-* Git & GitHub
-* UI/UX & Figma
-
----
-
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my skills, projects, and development journey.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 🍽️ Restaurant Website
-
-A modern and responsive restaurant website focused on clean UI and user experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 🎨 Landing Page Collection
-
-A collection of modern landing pages created to practice layouts, responsive design, and UI implementation.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 💻 Responsive Web Projects
-
-Various small projects built while learning frontend development and experimenting with modern web design.
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Portfolio Website](https://github.com/isahakdev)** | Modern personal portfolio showcasing projects & skills | HTML, CSS, JavaScript |
+| **[Restaurant Web App](https://github.com/isahakdev)** | Interactive food ordering platform with modern UI | React, CSS |
+| **[Landing Page Designs](https://github.com/isahakdev)** | High-converting, responsive landing page templates | TypeScript, Tailwind CSS |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isahakdev&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahakdev&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isahakdev&show_icons=true&hide_border=true&theme=radical" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isahakdev&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=isahakdev&hide_border=true&theme=radical" />
 </p>
-
----
-
-## 📈 My Development Journey
-
-```text
-Learning → Building → Practicing → Improving → Building Better
-```
-
-> Consistency matters more than perfection.
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/isahakdev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎯 2026 Goals
-
-* [ ] Master JavaScript
-* [ ] Become confident with TypeScript
-* [ ] Build real-world React projects
-* [ ] Learn Node.js & Express
-* [ ] Build and deploy full-stack projects
-* [ ] Improve UI/UX skills
-* [ ] Contribute to Open Source
-* [ ] Build a strong developer portfolio
-
----
-
-### 💡 Keep Learning • Keep Building • Keep Improving
-
-⭐ Thanks for stopping by!
-
-**— Isahak Ali**
+<h3 align="center">💡 "Keep learning. Keep building. Keep improving."</h3>
