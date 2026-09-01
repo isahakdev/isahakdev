@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/tandpfun/main/banner.png" width="100%" alt="Cover Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Isahak Ali</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Web+Developer;UI%2FUX+Enthusiast+%26+Designer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
