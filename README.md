@@ -2,7 +2,7 @@
   <img width="897" height="337" src="https://github.com/user-attachments/assets/3e142416-a369-4811-9d46-8fcb462719ae" alt="GitHub Profile Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Isahak Ali</h1>
+<h1 align="center">Hi 👋, I'm Isahak Ali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Web+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
