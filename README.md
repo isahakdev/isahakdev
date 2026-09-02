@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="897" height="337" src="https://github.com/user-attachments/assets/3e142416-a369-4811-9d46-8fcb462719ae" alt="GitHub Profile Banner" />
+<img width="1983" height="793" alt="bennar" src="https://github.com/user-attachments/assets/55838a56-068d-4be6-84f2-b7241b1625a5" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Isahak Ali</h1>
