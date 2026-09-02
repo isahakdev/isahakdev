@@ -59,7 +59,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma" />
-  <img src="https://img.shields.io/badge/AI--Assisted%20Coding-3B82F6?style=flat-square" alt="AI-Assisted Coding" />
 </p>
 
 🚀 Featured Projects
